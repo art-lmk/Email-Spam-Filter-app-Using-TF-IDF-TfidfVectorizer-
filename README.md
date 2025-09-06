@@ -1,10 +1,11 @@
 # Email-Spam-Filter-app-Using-TfidfVectorizer
+
 A deep dive into TF-IDF (Term Frequency-Inverse Document Frequency) vectorization, implemented through a practical email spam filter. This project demonstrates how raw text is transformed into meaningful numerical data that machines can understand and learn from.
 
 📊 What is TF-IDF?
-TF-IDF is a statistical measure that evaluates how relevant a word is to a document in a collection of documents. It's the product of two statistics:
+-TF-IDF is a statistical measure that evaluates how relevant a word is to a document in a collection of documents. It's the product of two statistics:
 
-Term Frequency (TF): How often a word appears in a document
+-Term Frequency (TF): How often a word appears in a document
 
 Inverse Document Frequency (IDF): How important a word is across all documents
 
